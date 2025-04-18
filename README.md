@@ -13,3 +13,14 @@ referência imagem: https://www.draddx.com/2021/01/algoritmos-estruturas-condici
 ![a8d007e9-517d-4c1d-ace7-94fad890eaa6](https://github.com/user-attachments/assets/6e8410a8-9438-49e9-833a-6a218861a550)
 
 referência imagem: https://www.passeidireto.com/arquivo/42957246/operadores-logicos-e-matematicos-java
+
+Já se precisar comparar variáveis, podemos utilizar o método equals, que é responsável por comparar o conteúdo das strings. Isso é bem importante, pois o operador == compara referências, enquanto equals compara o valor real. 
+* Exemplo:
+
+```
+String a = "Java";
+String b = "Java";
+if(a.equals(b)) {
+    System.out.println("As Strings são iguais");
+}
+```
