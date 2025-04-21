@@ -24,3 +24,8 @@ if(a.equals(b)) {
     System.out.println("As Strings são iguais");
 }
 ```
+## Agora, você está preparado para:
+
+* Utilizar condicionais ( if, else, else if ) para tomar decisões em seus programas, controlando o fluxo de execução com base em condições específicas.
+* Aplicar operadores relacionais ( >, <, ==, >=, <= ) para comparar valores e tomar decisões.
+* Explorar operadores lógicos ( &&, || ) para combinar múltiplas condições e criar verificações para o seu projeto.
